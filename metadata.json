@@ -1,0 +1,6 @@
+{
+  "name": "Serene Spa & Wellness Booking Platform",
+  "description": "Comprehensive Spa & Wellness platform featuring Public site, Client portal, Staff schedule & clinical notes, Admin dashboard, and a detachable 5th Mode Front Desk POS Register.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
